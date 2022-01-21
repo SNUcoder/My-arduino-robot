@@ -1,1 +1,1 @@
-This is my obstacle avoiding bot with IR sensor
+You can edit the code of my robot if you have any idea to improve it 😄
